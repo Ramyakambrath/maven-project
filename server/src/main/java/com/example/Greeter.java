@@ -13,6 +13,7 @@ public class Greeter {
   }
 /**
  *@Param :name
+ *@return: greetings
  */
 
   public final String greet(final String someone) {
